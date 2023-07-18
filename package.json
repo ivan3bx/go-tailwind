@@ -4,7 +4,7 @@
         "tailwind": "npx tailwindcss -o ./dist/assets/css/tailwind.css --watch"
     },
     "dependencies": {
-        "esbuild": "^0.17.18",
+        "esbuild": "^0.18",
         "stimulus": "^3.2.1",
         "tailwindcss": "^3.3.2"
     }
